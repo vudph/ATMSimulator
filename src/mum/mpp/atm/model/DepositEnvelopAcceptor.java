@@ -1,0 +1,1 @@
+package mum.mpp.atm.model;import mum.mpp.atm.view.Simulation;public class DepositEnvelopAcceptor {	public DepositEnvelopAcceptor() {	}	public void acceptEnvelope() throws CustomerConsole.Cancelled {		boolean inserted = Simulation.getInstance().acceptEnvelope();		if (!inserted)			throw new CustomerConsole.Cancelled();	}}

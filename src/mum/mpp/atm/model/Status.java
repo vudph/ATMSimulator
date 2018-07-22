@@ -1,0 +1,1 @@
+package mum.mpp.atm.model;public abstract class Status {	public abstract boolean isSuccess();	public abstract boolean isInvalidPIN();	public abstract String getMessage();		public String toString() {		if (isSuccess())			return "SUCCESS";		else if (isInvalidPIN())			return "INVALID PIN";		else			return "FAILURE " + getMessage();	}}

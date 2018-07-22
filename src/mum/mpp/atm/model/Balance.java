@@ -1,0 +1,1 @@
+package mum.mpp.atm.model;public class Balance {	private Money total;	private Money available;		public Balance() {	}	public void setBalance(Money total, Money available) {		this.total = total;		this.available = available;	}	public Money getTotal() {		return total;	}	public Money getAvailable() {		return available;	}}

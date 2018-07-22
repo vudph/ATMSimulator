@@ -1,0 +1,1 @@
+package mum.mpp.atm.model;import mum.mpp.atm.view.Simulation;public class CardReader {	public CardReader() {	}	public Card readCard() {		return Simulation.getInstance().readCard();	}	public void ejectCard() {		Simulation.getInstance().ejectCard();	}	public void retainCard() {		Simulation.getInstance().retainCard();	}}

@@ -1,0 +1,1 @@
+package mum.mpp.atm.model;public class AccountInformation {	public static final String[] ACCOUNT_NAMES = { "Checking", "Savings" };	public static final String[] ACCOUNT_ABBREVIATIONS = { "CHKG", "SVGS" };}
