@@ -10,3 +10,24 @@ Additional/optional functions:
 * PIN is invalid, the customer will be required to re-enter the PIN before a transaction can proceed. (optional function: the card will be permanently retained by the machine if not successful enter the PIN after 3 tries)
 * The ATM will support to print receipt for each successful transaction, showing the date, time, detailed transaction,…
 * $300 daily withdrawal limit per card is enforced.
+
+##  3. Detailed Designs
+##  3.1. Workflow
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/Workflow.png "Workflow")
+##  3.2. Overall design
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/overall.png "Overall design")
+##  3.3. Use cases	
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/use_case.png "Use cases")
+##  3.3. Class diagram
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/class_diagram.png "Class diagram")
+##  3.4. Sequence diagrams
+* General transaction
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/doTransaction.png "General transaction")
+* Withdraw transaction
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/withdrawal_transaction.png "Withdraw transaction")
+* Deposit transaction
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/depositTransaction.png "Deposit transaction")
+* Transfer transaction
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/transferTransaction.png "Transfer transaction")
+* Inquiry transaction
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/inquiry_transaction.png "Inquiry transaction")
