@@ -17,17 +17,17 @@ Additional/optional functions:
 ##  3.2. Overall design
 ![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/overall.png "Overall design")
 ##  3.3. Use cases	
-![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/use_case.png "Use cases")
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/use_case.jpg "Use cases")
 ##  3.3. Class diagram
-![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/class_diagram.png "Class diagram")
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/class_diagram.jpg "Class diagram")
 ##  3.4. Sequence diagrams
 * General transaction
-![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/doTransaction.png "General transaction")
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/doTransaction.jpg "General transaction")
 * Withdraw transaction
-![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/withdrawal_transaction.png "Withdraw transaction")
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/withdrawal_transaction.jpg "Withdraw transaction")
 * Deposit transaction
-![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/depositTransaction.png "Deposit transaction")
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/depositTransaction.jpg "Deposit transaction")
 * Transfer transaction
-![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/transferTransaction.png "Transfer transaction")
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/transferTransaction.jpg "Transfer transaction")
 * Inquiry transaction
-![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/inquiry_transaction.png "Inquiry transaction")
+![alt text](https://github.com/vudph/ATMSimulator/blob/master/resources/inquiry_transaction.jpg "Inquiry transaction")
